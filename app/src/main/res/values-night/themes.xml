@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Swiftpedia" parent="Theme.Material3.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/black_coffee</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/coffee</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+    <style name="TextContent.HeadlineMedium">
+        <item name="android:textAppearance">@style/TextAppearance.Material3.HeadlineMedium</item>
+    </style>
+
+    <style name="TextContent.HeadlineSmall">
+        <item name="android:textAppearance">@style/TextAppearance.Material3.HeadlineSmall</item>
+    </style>
+    <style name="TextContent.HeadlineSmall.sienna_bold">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/burnt_sienna</item>
+    </style>
+
+    <style name="TextContent.BodyLarge">
+        <item name="android:textAppearance">@style/TextAppearance.Material3.BodyLarge</item>
+    </style>
+    <style name="TextContent.BodyLarge.sienna_bold">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/burnt_sienna</item>
+    </style>
+    <style name="TextContent.HeadlineMedium.dim_gray">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/dim_gray</item>
+    </style>
+</resources>

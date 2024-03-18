@@ -1,0 +1,311 @@
+<resources>
+    <string name="app_name">Swiftpedia</string>
+    <string name="album_name">Album Name</string>
+    <string name="release_date">Release Date</string>
+    <string name="short_description">Short Description</string>
+    <string name="song_list">Song List</string>
+    <string name="debut_album">Debut Album</string>
+    <string name="fearless_album">Fearless</string>
+    <string name="speak_now_album">Speak Now</string>
+    <string name="red_album">Red</string>
+    <string name="the1989_album">1989</string>
+    <string name="reputation_album">Reputation</string>
+    <string name="lover_album">Lover</string>
+    <string name="folklore_album">Folklore</string>
+    <string name="evermore_album">Evermore</string>
+    <string name="midnight_album">Midnight</string>
+    <string name="ttpd_album">The Tortured Poets Department</string>
+    <string name="main">Main Menu</string>
+    <string name="about">About</string>
+    <string name="profileName">Rizky Aditya</string>
+    <string name="email_address">Rizky.aditya41119@gmail.com</string>
+    <string-array name="album_names">
+        <item>Debut Album</item>
+        <item>Fearless</item>
+        <item>Speak Now</item>
+        <item>Red</item>
+        <item>1989</item>
+        <item>Reputation</item>
+        <item>Lover</item>
+        <item>Folklore</item>
+        <item>Evermore</item>
+        <item>Midnight</item>
+        <item>The Tortured Poets Department</item>
+    </string-array>
+
+    <string-array name="release_date">
+        <item>October 24, 2006</item>
+        <item>November 11, 2008</item>
+        <item>October 25, 2010</item>
+        <item>October 22, 2012</item>
+        <item>October 27, 2014</item>
+        <item>November 10, 2017</item>
+        <item>August 23, 2019</item>
+        <item>July 24, 2020</item>
+        <item>December 11, 2020</item>
+        <item>October 21, 2022</item>
+        <item>April 19, 2024</item>
+    </string-array>
+
+    <string-array name="short_description">
+        <item> Taylor Swift eponymous debut studio album was released on October 24, 2006,
+            through Big Machine Records. Swift, who signed a record deal in 2005,
+            wrote or co-wrote every song on the album, with Liz Rose contributing to most co-written tracks.
+            Produced by Nathan Chapman, the album blends country and pop styles, exploring themes of romantic
+            relationships, some of which Swift observed before experiencing them
+            firsthand during her freshman year of high school.</item>
+        <item>"Fearless" is Taylor Swift second studio album, released on November 11, 2008,
+            via Big Machine Records. Swift wrote or co-wrote all thirteen tracks,
+            many penned while touring as the opening act for various country artists.
+            She collaborated with writers like Liz Rose, Hillary Lindsey, Colbie Caillat, and John Rich.
+            Notably, Swift also co-produced the album with Nathan Chapman, marking her debut
+            as a record producer.</item>
+        <item>Speak Now is Taylor Swift third studio album, released on
+            October 25, 2010, by Big Machine Records. Swift, along with Nathan Chapman,
+            handled production from 2008 to 2010. The album, written entirely by Swift,
+            follows her previous work but incorporates a bigger pop-rock sound.
+            It explores themes of love, romance, and heartbreak. The deluxe edition includes
+            bonus tracks and acoustic versions, with a wider US release in 2012.
+        </item>
+        <item>Red is Taylor Swift fourth studio album, released on October 22, 2012,
+            by Big Machine Records. The title reflects Swift turbulent emotions during its creation
+            exploring fading romance. To explore new sounds, Swift worked with various producers
+            including Max Martin and Shellback. The album blends pop, country, and rock, incorporating
+            elements like arena rock, Britrock, and dance-pop. Though promoted as country,
+            it was widely considered a pop record. It spawned seven singles
+            including "We Are Never Ever Getting Back Together" and "I Knew You Were Trouble."
+        </item>
+        <item>"1989" is Taylor Swift fifth studio album, released on October 27, 2014,
+            by Big Machine Records. Departing from her country roots, Swift embraced 1980s synth-pop
+            for a pop recalibration. The album title, reflecting her birth year, symbolizes a
+            new artistic chapter. Max Martin, co-executive producer, helmed production with contributors
+            like Shellback, Jack Antonoff, and Ryan Tedder. Synth-pop elements dominate,
+            marking a departure from Swift acoustic style. Lyrically, the album delves into
+            failed romance from a lighthearted angle, expanding on Swift autobiographical
+            storytelling.
+        </item>
+        <item> reputation is Taylor Swift sixth studio album, released on November 10, 2017,
+            under Big Machine Records. Crafted in response to media scrutiny following "1989,"
+            Swift drew inspiration from publicized disputes and relationships collaborating primarily
+            with Jack Antonoff, Max Martin, and Shellback to create an electro pop and RNB record
+            infused with hip hop, trap, and EDM elements. Eschewing traditional promotion, Swift cleared
+            her website and social media accounts, generating significant attention.
+            Despite mixed initial reviews, "reputation" achieved commercial success, becoming Swift
+            fourth consecutive album to sell one million copies in its first week in the US, s
+            pending four weeks atop the Billboard 200, and earning triple platinum certification.
+            It received critical recognition, earning a Grammy nomination for Best Pop Vocal Album,
+            with retrospective reviews highlighting its experimental nature and artistic evolution.</item>
+        <item>"Lover" is Taylor Swift seventh studio album, released on August 23, 2019,
+            under Republic Records, marking her first album after departing from Big Machine Records.
+            Produced with Jack Antonoff, Joel Little, Louis Bell, and Frank Dukes, the album is described
+            by Swift as a "love letter to love," delving into themes of infatuation, commitment,
+            and societal issues like LGBT rights and feminism. Its production blends
+            1980s-inspired electropop, pop rock, and synth-pop with elements of country, folk, and funk.
+            Despite some criticism for its wide-ranging musical styles, "Lover" received praise for
+            its emotional depth and free-spirited sound upon release.
+            It spawned four successful singles in 2019 and was Swift sixth consecutive Billboard 200
+            number-one album in the US, earning triple platinum certification. While retrospective
+            reviews note its eclectic nature, they generally uphold Swift mature
+            songwriting while acknowledging mixed results in sound cohesion. The album received Grammy
+            and American Music Award nominations, solidifying its impact in Swift discography.
+        </item>
+        <item>"Folklore" is Taylor Swift surprise eighth studio album, released on July 24, 2020,
+            via Republic Records amidst the COVID-19 pandemic. Created during quarantine, Swift collaborated
+            virtually with producers Aaron Dessner and Jack Antonoff, crafting mellow ballads exploring themes
+            of escapism, empathy, and nostalgia. Departing from her upbeat pop style, the album delves into indie
+            folk, alternative rock, and electro-acoustic sounds, featuring tracks like "Cardigan" and "Exile"
+            with Bon Iver. "Folklore" received widespread acclaim for its emotional depth and poetic lyricism,
+            topping charts globally and earning platinum certifications in multiple countries.
+            It became Swift seventh number-one album in the US and the best-selling album of 2020.
+            The album won Album of the Year at the 63rd Annual Grammy Awards, marking Swift historic
+            third win in the category.Rolling Stone included "Folklore" in their list of the
+            500 Greatest Albums of All Time.</item>
+        <item>Evermore is Taylor Swift surprise ninth studio album released on
+            December 11, 2020, via Republic Records, emerged as a spontaneous collaboration with Aaron Dessner,
+            following their work on "Folklore." Inspired by cottage core aesthetics, "Evermore"
+            is considered a sister album to "Folklore," featuring alternative rock,
+            indie folk, and chamber pop styles with guest appearances by Bon Iver, Haim, and the National.
+            The album, acclaimed for its experimental production and nuanced storytelling,
+            explores themes of love, marriage, and grief through impressionistic narratives.
+            It topped charts globally, with "Willow" becoming Swift seventh Billboard Hot 100 number-one song.
+            "Evermore" received a Grammy nomination for Album of the Year at the 64th Annual Grammy Awards,
+            solidifying Swift continued impact on the music industry.</item>
+        <item>"Midnights" marks Taylor Swift tenth studio album, released on October 21, 2022,
+            by Republic Records. Conceptualized as a reflection on sleepless nights, the album delves
+            into themes of regret, self-criticism, and infatuation through autobiographical songwriting.
+            Produced with Jack Antonoff, the standard edition features subdued electronic sounds blending
+            synth-pop, electropop, and dream pop elements. Additional tracks on the surprise-released
+            3am Edition were produced by Aaron Dessner. "Midnights" debuted atop the Billboard 200,
+            becoming Swift 11th consecutive number-one album and the best-selling album of 2022.
+            Lead single "Anti-Hero" propelled Swift to monopolize the Billboard Hot 100 top 10.
+            Critics praised Swift songwriting and the album restrained production
+            though some noted familiar influences. "Midnights" received multiple platinum certifications
+            and won Album of the Year at the 66th Annual Grammy Awards, solidifying Swift
+            continued influence and popularity.</item>
+        <item>"The Tortured Poets Department" is Taylor Swift upcoming eleventh studio album,
+            scheduled for release on April 19, 2024, via Republic Records. Swift announced the album at
+            the 66th Annual Grammy Awards in February 2024, following her win for Best Pop Vocal Album
+            with "Midnights" (2022). Conceived shortly after completing "Midnights," Swift developed
+            the album during the Eras Tour (2023–2024), describing it as her "lifeline" record driven by
+            imperative songwriting. Featuring sixteen songs, the album includes collaborations with
+            rapper Post Malone and indie rock band Florence and the Machine, with bonus tracks
+            available on physical formats.</item>
+    </string-array>
+    <string-array name="debut_album_song">
+        <item>Tim McGraw</item>
+        <item>Picture To Burn</item>
+        <item>Teardrops On My Guitar</item>
+        <item>A Place in The World</item>
+        <item>Cold As You</item>
+        <item>The Outside</item>
+        <item>Tied Together with a smile</item>
+        <item>Stay Beautiful</item>
+        <item>Shouldve Said No</item>
+        <item>Our Song</item>
+    </string-array>
+
+    <string-array name="fearless_album_song">
+        <item>Fearless</item>
+        <item>Fifteen</item>
+        <item>Love Story</item>
+        <item>Hey Stephen</item>
+        <item>White Horse</item>
+        <item>Young Belong With Me</item>
+        <item>Breathe (feat.Colbie Calliat)</item>
+        <item>Tell Me Why</item>
+        <item>Youre Not Sorry</item>
+        <item>The Way I Loved You</item>
+    </string-array>
+
+    <string-array name="speak_now_song">
+        <item>Mine</item>
+        <item>Sparks Fly</item>
+        <item>Back To December</item>
+        <item>Speak Now</item>
+        <item>Dear John</item>
+        <item>Mean</item>
+        <item>Enchanted</item>
+        <item>Better Than Revenge</item>
+        <item>Haunted</item>
+        <item>Long Live</item>
+    </string-array>
+
+    <string-array name="red_song">
+        <item>State Of Grace</item>
+        <item>Red</item>
+        <item>I Knew You Were Trouble</item>
+        <item>All Too Well (10 Minutes Version)</item>
+        <item>22</item>
+        <item>We Are Never Ever Getting Back Together</item>
+        <item>Everything Has Changed</item>
+        <item>Come Back...Be Here</item>
+        <item>Better Man</item>
+        <item>Ronan</item>
+    </string-array>
+
+    <string-array name="the1989_song">
+        <item>Blank Space</item>
+        <item>Style</item>
+        <item>Out Of The Woods</item>
+        <item>All You Had To Do Was Stay</item>
+        <item>Shake It Off</item>
+        <item>I Wish You Would</item>
+        <item>Wildest Dreams</item>
+        <item>I Know Places</item>
+        <item>Is It Over Now?</item>
+        <item>Now That We Dont Talk</item>
+    </string-array>
+
+    <string-array name="reputation_song">
+        <item>Ready For It</item>
+        <item>Endgame</item>
+        <item>Look What You Made Me Do</item>
+        <item>Delicate</item>
+        <item>I Did Something Bad</item>
+        <item>King Of My Heart</item>
+        <item>Georgous</item>
+        <item>Getaway Car</item>
+        <item>Dress</item>
+        <item>Dont Blame Me</item>
+    </string-array>
+
+    <string-array name="lover_song">
+        <item>I Forgot That You Existed</item>
+        <item>Cruel Summer</item>
+        <item>Lover</item>
+        <item>The Man</item>
+        <item>The Archer</item>
+        <item>I Think He Knows</item>
+        <item>Miss Americana and The Heartbreak Prince</item>
+        <item>Me!</item>
+        <item>Cornelia Street</item>
+        <item>You Need To Calm Down</item>
+    </string-array>
+
+    <string-array name="folklore_song">
+        <item>the 1</item>
+        <item>cardigan</item>
+        <item>the last great american dynasty</item>
+        <item>exile (feat.Bon Iver)</item>
+        <item>my tears ricochet</item>
+        <item>mirrorball</item>
+        <item>seven</item>
+        <item>august</item>
+        <item>betty</item>
+        <item>illicit affairs</item>
+    </string-array>
+
+    <string-array name="evermore_song">
+        <item>willow</item>
+        <item>champagne problems</item>
+        <item>gold rush</item>
+        <item>tis the damn season</item>
+        <item>tolerate it</item>
+        <item>no body, no crime (feat.HAIM)</item>
+        <item>dorothea</item>
+        <item>ivy</item>
+        <item>evermore</item>
+        <item>coney island (feat. The National)</item>
+    </string-array>
+
+    <string-array name="midnight_song">
+        <item>lavender haze</item>
+        <item>maroon</item>
+        <item>anti-hero</item>
+        <item>your on your own, kid</item>
+        <item>midnight rain</item>
+        <item>labyrinth</item>
+        <item>bejeweled</item>
+        <item>question?</item>
+        <item>karma</item>
+        <item>mastermind</item>
+    </string-array>
+
+    <string-array name="ttpd_song">
+        <item>"Fortnight" (featuring Post Malone)</item>
+        <item>"The Tortured Poets Department"</item>
+        <item>"My Boy Only Breaks His Favorite Toys"</item>
+        <item>"Down Bad"</item>
+        <item>"So Long, London"</item>
+        <item>"But Daddy I Love Him"</item>
+        <item>"Fresh Out the Slammer"</item>
+        <item>"Florida!!!" (featuring Florence and the Machine)</item>
+        <item>"Guilty as Sin?"</item>
+        <item>"Who Afraid of Little Old Me?"</item>
+    </string-array>
+
+    <integer-array name="album_photo">
+        <item>@drawable/debut</item>
+        <item>@drawable/fearless</item>
+        <item>@drawable/speak_now</item>
+        <item>@drawable/red</item>
+        <item>@drawable/the1989</item>
+        <item>@drawable/reputation</item>
+        <item>@drawable/lover</item>
+        <item>@drawable/folklore</item>
+        <item>@drawable/evermore</item>
+        <item>@drawable/midnight</item>
+        <item>@drawable/tortured_poets</item>
+    </integer-array>
+
+</resources>

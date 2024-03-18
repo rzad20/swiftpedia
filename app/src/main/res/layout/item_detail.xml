@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/albumName"
+            style="@style/TextContent.HeadlineMedium.dim_gray"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:text="@string/album_name"/>
+        <TextView
+            android:id="@+id/albumRelease"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:text="@string/release_date"/>
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="200dp"
+            android:layout_height="260dp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:scaleType="centerCrop"
+            tools:layout_editor_absoluteX="132dp"
+            tools:layout_editor_absoluteY="74dp"
+            tools:srcCompat="@tools:sample/avatars" />
+        <TextView
+            android:id="@+id/titleDescription"
+            style="@style/TextContent.BodyLarge.sienna_bold"
+            android:layout_marginTop="20dp"
+            android:text="Description"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/detailDescription"
+            android:layout_marginTop="10dp"
+            android:text="@string/short_description"/>
+        <TextView
+            android:id="@+id/titleSongList"
+            style="@style/TextContent.BodyLarge.sienna_bold"
+            android:layout_marginTop="20dp"
+            android:text="Song List"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/detailSong"
+            android:layout_marginTop="10dp"
+            android:text="@string/song_list"/>
+        <Button
+            android:id="@+id/action_share"
+            android:text="Share Ke Whatsapp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp" />
+    </LinearLayout>
+</ScrollView>
